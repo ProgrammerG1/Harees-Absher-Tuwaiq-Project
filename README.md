@@ -12,15 +12,16 @@ This project introduces an innovative service within the Absher platform to trac
 ## 📂 Repository Contents
 - **📊 PowerPoint Presentation**  
   The official hackathon pitch deck.  
-  👉 [Project_Presentation.pptx](./Project_Presentation.pptx)
+  👉 [Project_Presentation.pptx](./HareesAbsherTuwaiqProject.pptx)
 
-- **🖼️ Project Interface (PDF)**  
+- **🖼️ Project Interface (html)**  
   A document showcasing the user interface design and timeline view.  
-  👉 [Project_Interface.pdf](./Project_Interface.pdf)
+  👉 [Project_Interface.html](./HareesIdentityTrackingInterface.html)
+  👉 [Project_CardsPage.html](./CardsPage.html)
 
 - **📈 Power BI Dashboard**  
   Statistical analysis and project insights visualized in Power BI.  
-  👉 [Project_Statistics.pbix](./Project_Statistics.pbix)
+  👉 [Project_Statistics.pbix](./HareesDashBoardStatistics.pbix)
 
 ---
 
